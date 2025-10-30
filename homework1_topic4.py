@@ -8,4 +8,3 @@ def get_days_from_today(date):
         return difference
     except ValueError:
         return "Invalid date format. Please use 'YYYY-MM-DD'."
-    
